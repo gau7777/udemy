@@ -1,0 +1,26 @@
+p
+{
+    color: blue;
+}
+
+.box
+{
+    background-color: rgb(180, 199, 201);
+    width: inherit;
+    height: 100px;
+    
+    
+}
+.margin
+{
+    padding: 20px;
+}
+.nextbutton
+{
+    float: right;
+    height: 30px;
+    width: 70px;
+    background-color: blue;
+    color: white;
+    
+}
